@@ -1,0 +1,18 @@
+﻿生成启动时间为 19.10.6 17:09:53。
+     1>项目“D:\0.Study_Work\git资源\Luckyboy1024\Tic-tac-toe-chess\Tic-tac-toe-chess\Tic-tac-toe-chess\Tic-tac-toe-chess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\2.My_App\3. 学习软件\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c test.c
+         test.c
+     1>d:\0.study_work\git资源\luckyboy1024\tic-tac-toe-chess\tic-tac-toe-chess\tic-tac-toe-chess\test.c(31): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+     1>d:\0.study_work\git资源\luckyboy1024\tic-tac-toe-chess\tic-tac-toe-chess\tic-tac-toe-chess\test.c(31): warning C4024: “scanf”: 形参和实参 1 的类型不同
+         game.c
+         正在生成代码...
+       Link:
+         D:\2.My_App\3. 学习软件\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\0.Study_Work\git资源\Luckyboy1024\Tic-tac-toe-chess\Tic-tac-toe-chess\Debug\Tic-tac-toe-chess.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\0.Study_Work\git资源\Luckyboy1024\Tic-tac-toe-chess\Tic-tac-toe-chess\Debug\Tic-tac-toe-chess.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\0.Study_Work\git资源\Luckyboy1024\Tic-tac-toe-chess\Tic-tac-toe-chess\Debug\Tic-tac-toe-chess.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         Tic-tac-toe-chess.vcxproj -> D:\0.Study_Work\git资源\Luckyboy1024\Tic-tac-toe-chess\Tic-tac-toe-chess\Debug\Tic-tac-toe-chess.exe
+     1>已完成生成项目“D:\0.Study_Work\git资源\Luckyboy1024\Tic-tac-toe-chess\Tic-tac-toe-chess\Tic-tac-toe-chess\Tic-tac-toe-chess.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.92
